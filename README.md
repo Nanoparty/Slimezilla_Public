@@ -3,7 +3,7 @@
 ![version](https://img.shields.io/badge/Version-1.0-green)
 ![engine](https://img.shields.io/badge/Engine-Unity-blue)
 
-A bullet-hell survival game about a slime taking on the kingdom. Made for Brackeys Game Jam 2022.2
+A Bullet-Hell Survival game about a slime taking on the Kingdom. Made for Brackeys Game Jam 2022.2. Paid assets have been removed.
 
 You take the crown and become the King of all slimes, but the human kingdom is not happy. There can be only one king. Join forces with your fellow slimes and fight back against the seemly infinite forces of the human kingdom.
 
