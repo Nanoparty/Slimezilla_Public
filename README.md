@@ -9,6 +9,10 @@ You take the crown and become the King of all slimes, but the human kingdom is n
 
 Vampire Survivors inspired survival bullet-hell game. Merge with other slimes to heal yourself and grow in size. Collect gems from fallen knights to unlock upgrades and transform from a King slime to a God slime.
 
+## Play Now
+
+Game is available to download and play for free on Windows, Mac, and Linux at https://dispixel.itch.io/slimezilla
+
 ![alt text](https://github.com/Nanoparty/Slimezilla/blob/master/Screenshots/cover_art.png?raw=true)
 ![screenshot](Screenshots/1.png)
 ![screenshot](Screenshots/2.png)
